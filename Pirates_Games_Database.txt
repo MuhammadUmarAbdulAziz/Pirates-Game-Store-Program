@@ -1,0 +1,15 @@
+83270,Assassins Creed Odyssey,Action RPG,05-10-2018,Exclusive
+58569,Batman: Arkham City,Action Adventure,18-10-2011,Reguler
+57615,BioShock Infinite,First Person Shooter,26-03-2013,Reguler
+60893,Cyberpunk,Action RPG,10-12-2020,Exclusive
+36245,Dark Souls III,Action RPG,24-03-2016,Reguler
+56995,DOOM Remasterd,First Person Shooter,13-05-2016,Reguler
+70028,Fallout IV,Action RPG,10-11-2015,Exclusive
+95473,Far Cry III,First Person Shooter,29-11-012,Reguler
+95968,Grand Theft Auto V,Open World,14-04-2015,Reguler
+63602,Horizon Zero Dawn,Action RPG,07-08-2020,Exclusive
+54514,Metal Gear Solid V: The Phantom Pain,Action Adventure,01-09-2015,Exclusive
+67622,Red Dead Redemption II,Open World,26-10-2018,Exclusive
+32092,The Witcher III: Wild Hunt,Action RPG,18-05-2015,Reguler
+95188,The Elder Scrolls V: Skyrim,Action RPG,11-11-2011,Reguler
+47232,Sekiro: Shadows Die Twice,Action Adventure,22-03-2019,Exclusive
